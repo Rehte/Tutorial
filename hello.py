@@ -4,3 +4,5 @@ print("Did you Git it?")
 
 for i in range(3):
     print("Yes! And we GitHub.")
+
+print("In this tutorial, we'll gonna talk about Computer Graphics")
