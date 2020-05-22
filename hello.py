@@ -1,3 +1,2 @@
 print("Git...?")
-print("Yea! Git!")
-print("Naw")
+print("Yea! I Git it!")
